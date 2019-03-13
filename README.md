@@ -1,5 +1,5 @@
 # CamVid-95-accuracy
-Notebooks to: train CamVid-Tiramisu dataset to 95% accuracy (state of the art from what I've seen), convert CamVid dataset to Tiramisu paper version, and other training.
+Notebooks to: train CamVid-Tiramisu dataset to 95% accuracy (sota), convert CamVid dataset to Tiramisu paper version, and other training.
 
 I did this on Windows 10 with the fast.ai v1 library: https://github.com/fastai/fastai
 
